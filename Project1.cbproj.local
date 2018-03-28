@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>1899.12.30 00:00:00.000.108,=C:\Users\LesNIK\Documents\Embarcadero\Studio\Projects\Unit1.cpp</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.223,=C:\Users\LesNIK\Documents\Embarcadero\Studio\Projects\Project1PCH1.h</Transaction>
+    <Transaction>2018.03.28 13:05:38.615,=C:\Users\LesNIK\Documents\Embarcadero\Studio\Projects\Project1PCH1.h</Transaction>
+    <Transaction>2018.03.28 13:05:38.647,=C:\Users\LesNIK\Documents\Embarcadero\Studio\Projects\Unit1.cpp</Transaction>
+    <Transaction>2018.03.28 13:06:09.328,C:\Users\LesNIK\Documents\Embarcadero\Studio\Projects\Lab4_2\lab4.h=C:\Users\LesNIK\Documents\Embarcadero\Studio\Projects\Unit1.h</Transaction>
+    <Transaction>2018.03.28 13:06:09.328,C:\Users\LesNIK\Documents\Embarcadero\Studio\Projects\Lab4_2\lab4.dfm=C:\Users\LesNIK\Documents\Embarcadero\Studio\Projects\Unit1.dfm</Transaction>
+    <Transaction>2018.03.28 13:06:09.328,C:\Users\LesNIK\Documents\Embarcadero\Studio\Projects\Lab4_2\lab4.cpp=C:\Users\LesNIK\Documents\Embarcadero\Studio\Projects\Unit1.cpp</Transaction>
+    <Transaction>2018.03.28 13:06:19.949,C:\Users\LesNIK\Documents\Embarcadero\Studio\Projects\Lab4_2\lab4proj.h=C:\Users\LesNIK\Documents\Embarcadero\Studio\Projects\Project1PCH1.h</Transaction>
+    <Transaction>2018.03.28 13:06:22.630,C:\Users\LesNIK\Documents\Embarcadero\Studio\Projects\Lab4_2\Project1.cbproj=C:\Users\LesNIK\Documents\Embarcadero\Studio\Projects\Project1.cbproj</Transaction>
+    <Transaction>2018.03.28 13:26:01.999,=C:\Users\LesNIK\Documents\Embarcadero\Studio\Projects\Lab4_2\Unit2.cpp</Transaction>
+    <Transaction>2018.03.28 13:27:18.570,C:\Users\LesNIK\Documents\Embarcadero\Studio\Projects\Lab4_2\lab4_2.h=C:\Users\LesNIK\Documents\Embarcadero\Studio\Projects\Lab4_2\Unit2.h</Transaction>
+    <Transaction>2018.03.28 13:27:18.570,C:\Users\LesNIK\Documents\Embarcadero\Studio\Projects\Lab4_2\lab4_2.cpp=C:\Users\LesNIK\Documents\Embarcadero\Studio\Projects\Lab4_2\Unit2.cpp</Transaction>
+    <Transaction>2018.03.28 13:27:18.570,C:\Users\LesNIK\Documents\Embarcadero\Studio\Projects\Lab4_2\lab4_2.dfm=C:\Users\LesNIK\Documents\Embarcadero\Studio\Projects\Lab4_2\Unit2.dfm</Transaction>
+  </Transactions>
+</BorlandProject>
