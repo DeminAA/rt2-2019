@@ -23,25 +23,6 @@ object Form1: TForm1
     DefaultColWidth = 128
     RowCount = 18
     TabOrder = 0
-    RowHeights = (
-      24
-      24
-      24
-      24
-      24
-      24
-      24
-      24
-      24
-      24
-      24
-      24
-      24
-      24
-      24
-      24
-      24
-      24)
   end
   object Button1: TButton
     Left = 182

@@ -1,18 +1,25 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <BorlandProject>
 	<Transactions>
+    <Transaction>1899.12.30 00:00:00.000.328,C:\Users\LesNIK\Documents\Embarcadero\Studio\Projects\Unit1.dfm=C:\Users\LesNIK\Documents\Embarcadero\Studio\Projects\Lab4_2\lab4.dfm</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.570,C:\Users\LesNIK\Documents\Embarcadero\Studio\Projects\Lab4_2\Unit2.h=C:\Users\LesNIK\Documents\Embarcadero\Studio\Projects\Lab4_2\lab4_2.h</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.999,=C:\Users\LesNIK\Documents\Embarcadero\Studio\Projects\Lab4_2\Unit2.cpp</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.570,C:\Users\LesNIK\Documents\Embarcadero\Studio\Projects\Lab4_2\Unit2.cpp=C:\Users\LesNIK\Documents\Embarcadero\Studio\Projects\Lab4_2\lab4_2.cpp</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.328,C:\Users\LesNIK\Documents\Embarcadero\Studio\Projects\Unit1.cpp=C:\Users\LesNIK\Documents\Embarcadero\Studio\Projects\Lab4_2\lab4.cpp</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.570,C:\Users\LesNIK\Documents\Embarcadero\Studio\Projects\Lab4_2\Unit2.dfm=C:\Users\LesNIK\Documents\Embarcadero\Studio\Projects\Lab4_2\lab4_2.dfm</Transaction>
     <Transaction>1899.12.30 00:00:00.000.108,=C:\Users\LesNIK\Documents\Embarcadero\Studio\Projects\Unit1.cpp</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.647,=C:\Users\LesNIK\Documents\Embarcadero\Studio\Projects\Unit1.cpp</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.615,=C:\Users\LesNIK\Documents\Embarcadero\Studio\Projects\Project1PCH1.h</Transaction>
     <Transaction>1899.12.30 00:00:00.000.223,=C:\Users\LesNIK\Documents\Embarcadero\Studio\Projects\Project1PCH1.h</Transaction>
-    <Transaction>2018.03.28 13:05:38.615,=C:\Users\LesNIK\Documents\Embarcadero\Studio\Projects\Project1PCH1.h</Transaction>
-    <Transaction>2018.03.28 13:05:38.647,=C:\Users\LesNIK\Documents\Embarcadero\Studio\Projects\Unit1.cpp</Transaction>
-    <Transaction>2018.03.28 13:06:09.328,C:\Users\LesNIK\Documents\Embarcadero\Studio\Projects\Lab4_2\lab4.h=C:\Users\LesNIK\Documents\Embarcadero\Studio\Projects\Unit1.h</Transaction>
-    <Transaction>2018.03.28 13:06:09.328,C:\Users\LesNIK\Documents\Embarcadero\Studio\Projects\Lab4_2\lab4.dfm=C:\Users\LesNIK\Documents\Embarcadero\Studio\Projects\Unit1.dfm</Transaction>
-    <Transaction>2018.03.28 13:06:09.328,C:\Users\LesNIK\Documents\Embarcadero\Studio\Projects\Lab4_2\lab4.cpp=C:\Users\LesNIK\Documents\Embarcadero\Studio\Projects\Unit1.cpp</Transaction>
-    <Transaction>2018.03.28 13:06:19.949,C:\Users\LesNIK\Documents\Embarcadero\Studio\Projects\Lab4_2\lab4proj.h=C:\Users\LesNIK\Documents\Embarcadero\Studio\Projects\Project1PCH1.h</Transaction>
-    <Transaction>2018.03.28 13:06:22.630,C:\Users\LesNIK\Documents\Embarcadero\Studio\Projects\Lab4_2\Project1.cbproj=C:\Users\LesNIK\Documents\Embarcadero\Studio\Projects\Project1.cbproj</Transaction>
-    <Transaction>2018.03.28 13:26:01.999,=C:\Users\LesNIK\Documents\Embarcadero\Studio\Projects\Lab4_2\Unit2.cpp</Transaction>
-    <Transaction>2018.03.28 13:27:18.570,C:\Users\LesNIK\Documents\Embarcadero\Studio\Projects\Lab4_2\lab4_2.h=C:\Users\LesNIK\Documents\Embarcadero\Studio\Projects\Lab4_2\Unit2.h</Transaction>
-    <Transaction>2018.03.28 13:27:18.570,C:\Users\LesNIK\Documents\Embarcadero\Studio\Projects\Lab4_2\lab4_2.cpp=C:\Users\LesNIK\Documents\Embarcadero\Studio\Projects\Lab4_2\Unit2.cpp</Transaction>
-    <Transaction>2018.03.28 13:27:18.570,C:\Users\LesNIK\Documents\Embarcadero\Studio\Projects\Lab4_2\lab4_2.dfm=C:\Users\LesNIK\Documents\Embarcadero\Studio\Projects\Lab4_2\Unit2.dfm</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.630,C:\Users\LesNIK\Documents\Embarcadero\Studio\Projects\Project1.cbproj=C:\Users\LesNIK\Documents\Embarcadero\Studio\Projects\Lab4_2\Project1.cbproj</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.949,C:\Users\LesNIK\Documents\Embarcadero\Studio\Projects\Project1PCH1.h=C:\Users\LesNIK\Documents\Embarcadero\Studio\Projects\Lab4_2\lab4proj.h</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.328,C:\Users\LesNIK\Documents\Embarcadero\Studio\Projects\Unit1.h=C:\Users\LesNIK\Documents\Embarcadero\Studio\Projects\Lab4_2\lab4.h</Transaction>
+    <Transaction>2018.03.28 18:17:41.312,=C:\Users\sher-\Desktop\test2\rt2-2019\Unit3.cpp</Transaction>
+    <Transaction>2018.03.28 18:17:56.951,C:\Users\sher-\Desktop\test2\rt2-2019\rstuk_form.h=C:\Users\sher-\Desktop\test2\rt2-2019\Unit3.h</Transaction>
+    <Transaction>2018.03.28 18:17:56.951,C:\Users\sher-\Desktop\test2\rt2-2019\rstuk_form.cpp=C:\Users\sher-\Desktop\test2\rt2-2019\Unit3.cpp</Transaction>
+    <Transaction>2018.03.28 18:17:56.951,C:\Users\sher-\Desktop\test2\rt2-2019\rstuk_form.dfm=C:\Users\sher-\Desktop\test2\rt2-2019\Unit3.dfm</Transaction>
+    <Transaction>2018.03.28 18:18:05.735,C:\Users\sher-\Desktop\test2\rt2-2019\Sherstuk_form.dfm=C:\Users\sher-\Desktop\test2\rt2-2019\rstuk_form.dfm</Transaction>
+    <Transaction>2018.03.28 18:18:05.735,C:\Users\sher-\Desktop\test2\rt2-2019\Sherstuk_form.cpp=C:\Users\sher-\Desktop\test2\rt2-2019\rstuk_form.cpp</Transaction>
+    <Transaction>2018.03.28 18:18:05.735,C:\Users\sher-\Desktop\test2\rt2-2019\Sherstuk_form.h=C:\Users\sher-\Desktop\test2\rt2-2019\rstuk_form.h</Transaction>
   </Transactions>
 </BorlandProject>
