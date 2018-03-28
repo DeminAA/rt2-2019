@@ -30,6 +30,24 @@ object Shersteforma: TShersteforma
     DefaultColWidth = 96
     RowCount = 17
     TabOrder = 0
+    RowHeights = (
+      24
+      24
+      24
+      24
+      24
+      24
+      24
+      24
+      24
+      24
+      24
+      24
+      24
+      24
+      24
+      24
+      24)
   end
   object Button1: TButton
     Left = 215

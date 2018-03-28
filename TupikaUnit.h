@@ -13,8 +13,8 @@ class TTupikaforma : public TForm
 {
 __published:	// IDE-managed Components
 	TStringGrid *StringGrid1;
-	TButton *ShowText;
-	void __fastcall ShowTextClick(TObject *Sender);
+	TButton *Button1;
+	void __fastcall Button1Click(TObject *Sender);
 private:	// User declarations
 public:		// User declarations
 	__fastcall TTupikaforma(TComponent* Owner);

@@ -23,13 +23,13 @@ object Tupikaforma: TTupikaforma
     RowCount = 17
     TabOrder = 0
   end
-  object ShowText: TButton
+  object Button1: TButton
     Left = 40
-    Top = 440
+    Top = 447
     Width = 320
-    Height = 113
-    Caption = 'ShowText'
+    Height = 96
+    Caption = 'SuperButton'
     TabOrder = 1
-    OnClick = ShowTextClick
+    OnClick = Button1Click
   end
 end
