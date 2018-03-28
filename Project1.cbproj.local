@@ -1,29 +1,29 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <BorlandProject>
 	<Transactions>
+    <Transaction>1899.12.30 00:00:00.000.570,C:\Users\LesNIK\Documents\Embarcadero\Studio\Projects\Lab4_2\lab4_2.dfm=C:\Users\LesNIK\Documents\Embarcadero\Studio\Projects\Lab4_2\Unit2.dfm</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.268,C:\Users\Denis\Desktop\laba4444\rt2-2019\TupikaUnit.h=C:\Users\Denis\Desktop\laba4444\rt2-2019\Unit3.h</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.268,C:\Users\Denis\Desktop\laba4444\rt2-2019\TupikaUnit.dfm=C:\Users\Denis\Desktop\laba4444\rt2-2019\Unit3.dfm</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.735,C:\Users\sher-\Desktop\test2\rt2-2019\rstuk_form.dfm=C:\Users\sher-\Desktop\test2\rt2-2019\Sherstuk_form.dfm</Transaction>
     <Transaction>1899.12.30 00:00:00.000.570,C:\Users\LesNIK\Documents\Embarcadero\Studio\Projects\Lab4_2\lab4_2.h=C:\Users\LesNIK\Documents\Embarcadero\Studio\Projects\Lab4_2\Unit2.h</Transaction>
     <Transaction>1899.12.30 00:00:00.000.328,C:\Users\LesNIK\Documents\Embarcadero\Studio\Projects\Lab4_2\lab4.dfm=C:\Users\LesNIK\Documents\Embarcadero\Studio\Projects\Unit1.dfm</Transaction>
-    <Transaction>1899.12.30 00:00:00.000.570,C:\Users\LesNIK\Documents\Embarcadero\Studio\Projects\Lab4_2\lab4_2.dfm=C:\Users\LesNIK\Documents\Embarcadero\Studio\Projects\Lab4_2\Unit2.dfm</Transaction>
-    <Transaction>1899.12.30 00:00:00.000.951,C:\Users\sher-\Desktop\test2\rt2-2019\Unit3.h=C:\Users\sher-\Desktop\test2\rt2-2019\rstuk_form.h</Transaction>
-    <Transaction>1899.12.30 00:00:00.000.951,C:\Users\sher-\Desktop\test2\rt2-2019\Unit3.dfm=C:\Users\sher-\Desktop\test2\rt2-2019\rstuk_form.dfm</Transaction>
-    <Transaction>1899.12.30 00:00:00.000.328,C:\Users\LesNIK\Documents\Embarcadero\Studio\Projects\Lab4_2\lab4.h=C:\Users\LesNIK\Documents\Embarcadero\Studio\Projects\Unit1.h</Transaction>
     <Transaction>1899.12.30 00:00:00.000.647,=C:\Users\LesNIK\Documents\Embarcadero\Studio\Projects\Unit1.cpp</Transaction>
-    <Transaction>1899.12.30 00:00:00.000.949,C:\Users\LesNIK\Documents\Embarcadero\Studio\Projects\Lab4_2\lab4proj.h=C:\Users\LesNIK\Documents\Embarcadero\Studio\Projects\Project1PCH1.h</Transaction>
-    <Transaction>1899.12.30 00:00:00.000.108,=C:\Users\LesNIK\Documents\Embarcadero\Studio\Projects\Unit1.cpp</Transaction>
-    <Transaction>1899.12.30 00:00:00.000.735,C:\Users\sher-\Desktop\test2\rt2-2019\rstuk_form.dfm=C:\Users\sher-\Desktop\test2\rt2-2019\Sherstuk_form.dfm</Transaction>
     <Transaction>1899.12.30 00:00:00.000.570,C:\Users\LesNIK\Documents\Embarcadero\Studio\Projects\Lab4_2\lab4_2.cpp=C:\Users\LesNIK\Documents\Embarcadero\Studio\Projects\Lab4_2\Unit2.cpp</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.999,=C:\Users\LesNIK\Documents\Embarcadero\Studio\Projects\Lab4_2\Unit2.cpp</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.223,=C:\Users\LesNIK\Documents\Embarcadero\Studio\Projects\Project1PCH1.h</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.615,=C:\Users\LesNIK\Documents\Embarcadero\Studio\Projects\Project1PCH1.h</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.108,=C:\Users\LesNIK\Documents\Embarcadero\Studio\Projects\Unit1.cpp</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.328,C:\Users\LesNIK\Documents\Embarcadero\Studio\Projects\Lab4_2\lab4.cpp=C:\Users\LesNIK\Documents\Embarcadero\Studio\Projects\Unit1.cpp</Transaction>
     <Transaction>1899.12.30 00:00:00.000.630,C:\Users\LesNIK\Documents\Embarcadero\Studio\Projects\Lab4_2\Project1.cbproj=C:\Users\LesNIK\Documents\Embarcadero\Studio\Projects\Project1.cbproj</Transaction>
     <Transaction>1899.12.30 00:00:00.000.735,C:\Users\sher-\Desktop\test2\rt2-2019\rstuk_form.h=C:\Users\sher-\Desktop\test2\rt2-2019\Sherstuk_form.h</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.328,C:\Users\LesNIK\Documents\Embarcadero\Studio\Projects\Lab4_2\lab4.h=C:\Users\LesNIK\Documents\Embarcadero\Studio\Projects\Unit1.h</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.949,C:\Users\LesNIK\Documents\Embarcadero\Studio\Projects\Lab4_2\lab4proj.h=C:\Users\LesNIK\Documents\Embarcadero\Studio\Projects\Project1PCH1.h</Transaction>
     <Transaction>1899.12.30 00:00:00.000.735,C:\Users\sher-\Desktop\test2\rt2-2019\rstuk_form.cpp=C:\Users\sher-\Desktop\test2\rt2-2019\Sherstuk_form.cpp</Transaction>
-    <Transaction>1899.12.30 00:00:00.000.328,C:\Users\LesNIK\Documents\Embarcadero\Studio\Projects\Lab4_2\lab4.cpp=C:\Users\LesNIK\Documents\Embarcadero\Studio\Projects\Unit1.cpp</Transaction>
-    <Transaction>1899.12.30 00:00:00.000.999,=C:\Users\LesNIK\Documents\Embarcadero\Studio\Projects\Lab4_2\Unit2.cpp</Transaction>
-    <Transaction>1899.12.30 00:00:00.000.312,=C:\Users\sher-\Desktop\test2\rt2-2019\Unit3.cpp</Transaction>
     <Transaction>1899.12.30 00:00:00.000.951,C:\Users\sher-\Desktop\test2\rt2-2019\Unit3.cpp=C:\Users\sher-\Desktop\test2\rt2-2019\rstuk_form.cpp</Transaction>
-    <Transaction>1899.12.30 00:00:00.000.615,=C:\Users\LesNIK\Documents\Embarcadero\Studio\Projects\Project1PCH1.h</Transaction>
-    <Transaction>1899.12.30 00:00:00.000.223,=C:\Users\LesNIK\Documents\Embarcadero\Studio\Projects\Project1PCH1.h</Transaction>
-    <Transaction>2018.03.28 19:55:44.387,=C:\Users\Denis\Desktop\laba4444\rt2-2019\Unit3.cpp</Transaction>
-    <Transaction>2018.03.28 20:00:55.268,C:\Users\Denis\Desktop\laba4444\rt2-2019\TupikaUnit.cpp=C:\Users\Denis\Desktop\laba4444\rt2-2019\Unit3.cpp</Transaction>
-    <Transaction>2018.03.28 20:00:55.268,C:\Users\Denis\Desktop\laba4444\rt2-2019\TupikaUnit.h=C:\Users\Denis\Desktop\laba4444\rt2-2019\Unit3.h</Transaction>
-    <Transaction>2018.03.28 20:00:55.268,C:\Users\Denis\Desktop\laba4444\rt2-2019\TupikaUnit.dfm=C:\Users\Denis\Desktop\laba4444\rt2-2019\Unit3.dfm</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.951,C:\Users\sher-\Desktop\test2\rt2-2019\Unit3.dfm=C:\Users\sher-\Desktop\test2\rt2-2019\rstuk_form.dfm</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.951,C:\Users\sher-\Desktop\test2\rt2-2019\Unit3.h=C:\Users\sher-\Desktop\test2\rt2-2019\rstuk_form.h</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.387,=C:\Users\Denis\Desktop\laba4444\rt2-2019\Unit3.cpp</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.268,C:\Users\Denis\Desktop\laba4444\rt2-2019\TupikaUnit.cpp=C:\Users\Denis\Desktop\laba4444\rt2-2019\Unit3.cpp</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.312,=C:\Users\sher-\Desktop\test2\rt2-2019\Unit3.cpp</Transaction>
   </Transactions>
 </BorlandProject>
