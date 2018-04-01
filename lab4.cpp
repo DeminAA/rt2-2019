@@ -8,6 +8,7 @@
 #include "Sherstuk_form.h"
 #include "TupikaUnit.h"
 #include "GorbunoV.h"
+#include "AhmeTau.h"
 //---------------------------------------------------------------------------
 #pragma package(smart_init)
 #pragma resource "*.dfm"
@@ -29,6 +30,8 @@ void __fastcall TForm1::FormCreate(TObject *Sender)
 		for (int i = 1; i <= 16; i++) {
 			StringGrid1 -> Cells[0][i] = i;
 		}
+		StringGrid1 -> Cells[1][0] = "1";
+		StringGrid1 -> Cells[1][1] = G_01_Akhmetov;
 		StringGrid1 -> Cells[0][3] = "3";
 		StringGrid1 -> Cells[1][3] = G_03_Gorbunov;
 		StringGrid1 -> Cells[0][15] = StringGrid1 -> Cells[0][15] + " Shanin";
@@ -46,5 +49,6 @@ void __fastcall TForm1::Button1Click(TObject *Sender)
 	Shersteforma->Show();     //мен€йте на свою форму, кому нужно
 	Tupikaforma->Show();
 	Form3->Show();
+	AhmeForma228->Show();
 }
 //---------------------------------------------------------------------------

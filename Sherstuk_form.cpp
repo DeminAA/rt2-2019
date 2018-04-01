@@ -2,7 +2,7 @@
 
 #include <vcl.h>
 #pragma hdrstop
-
+#include "AhmeTau.h"
 #include "Sherstuk_form.h"
 #include "lab4.h"
 #include "TupikaUnit.h"
@@ -28,6 +28,7 @@ void __fastcall TShersteforma::FormCreate(TObject *Sender)
 //---------------------------------------------------------------------------
 void __fastcall TShersteforma::Button1Click(TObject *Sender)
 {
+	StringGrid1 -> Cells[1][1] = G_01_Akhmetov;
 	StringGrid1->Cells[1][13] = G_13_Tupika;
 	StringGrid1->Cells[1][15] = G_15_Shanin;
 	StringGrid1->Cells[1][16] = G_16_Sherstuk;
