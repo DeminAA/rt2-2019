@@ -6,6 +6,7 @@
 #include "Sherstuk_form.h"
 #include "lab4.h"
 #include "TupikaUnit.h"
+#include "GorbunoV.h"
 //---------------------------------------------------------------------------
 #pragma package(smart_init)
 #pragma resource "*.dfm"
@@ -30,5 +31,6 @@ void __fastcall TShersteforma::Button1Click(TObject *Sender)
 	StringGrid1->Cells[1][13] = G_13_Tupika;
 	StringGrid1->Cells[1][15] = G_15_Shanin;
 	StringGrid1->Cells[1][16] = G_16_Sherstuk;
+	StringGrid1 -> Cells[1][3] = G_03_Gorbunov;
 }
 //---------------------------------------------------------------------------

@@ -3,6 +3,7 @@
 #include <vcl.h>
 #pragma hdrstop
 
+ #include "GorbunoV.h"
 #include "TupikaUnit.h"
 #include "Sherstuk_form.h"
 #include "lab4.h"
@@ -23,6 +24,7 @@ for (int i = 1; i < 18; i++ ) {
 //---------------------------------------------------------------------------
 void __fastcall TTupikaforma::Button1Click(TObject *Sender)
 {
+    StringGrid1 -> Cells[1][3] = G_03_Gorbunov;
 	StringGrid1->Cells[1][13] = G_13_Tupika;
 	StringGrid1->Cells[1][15] = G_15_Shanin;
 	StringGrid1->Cells[1][16] = G_16_Sherstuk;
