@@ -21,18 +21,16 @@ __fastcall TForm1::TForm1(TComponent* Owner)
 //---------------------------------------------------------------------------
 void __fastcall TForm1::FormCreate(TObject *Sender)
 {
-//int num = 2;
-  //	StringGrid1 -> RowCount = num;
-   //	for (int i = 0; i < num+1; i++) {
+
 		StringGrid1 -> Cells[0][0] = "Number:";
 		StringGrid1 -> Cells[1][0] = "Tape here";
-		//StringGrid1->
+
 		for (int i = 1; i <= 16; i++) {
 			StringGrid1 -> Cells[0][i] = i;
 		}
-		StringGrid1 -> Cells[1][0] = "1";
+		//StringGrid1 -> Cells[1][0] = "1";
 		StringGrid1 -> Cells[1][1] = G_01_Akhmetov;
-		StringGrid1 -> Cells[0][3] = "3";
+		//StringGrid1 -> Cells[0][3] = "3";
 		StringGrid1 -> Cells[1][3] = G_03_Gorbunov;
 		StringGrid1 -> Cells[0][15] = StringGrid1 -> Cells[0][15] + " Shanin";
 		StringGrid1 -> Cells[1][15] = "lol";
@@ -41,14 +39,34 @@ void __fastcall TForm1::FormCreate(TObject *Sender)
 		StringGrid1 -> Cells[0][17] = "17 Fomenkov";
 		StringGrid1 -> Cells[1][17] = G_17_Fomenkov;
 
-   //	}
+		//НИЧЕГО ВЫШЕ НЕ ТРОГАЙТЕ!!!!
+		// Сначала вписываете имя своей формы сюда
+		ListBox1->Items->Add("Shersteforma");      //0
+		ListBox1->Items->Add("Tupikaforma");       //1
+		ListBox1->Items->Add("Form3");             //2
+		ListBox1->Items->Add("AhmeForma22");       //3
+
 }
 //---------------------------------------------------------------------------
 void __fastcall TForm1::Button1Click(TObject *Sender)
 {
-	Shersteforma->Show();     //меняйте на свою форму, кому нужно
-	Tupikaforma->Show();
-	Form3->Show();
-	AhmeForma228->Show();
+	//Теперь вписываете запуск своей формы в свитч
+	switch (ListBox1->ItemIndex) {
+		case 0:
+			Shersteforma->Show();
+			break;
+		case 1:
+			Tupikaforma->Show();
+			break;
+		case 2:
+			Form3->Show();
+			break;
+		case 3:
+			AhmeForma228->Show();
+			break;
+		default:
+			ShowMessage("Имя формы не выбрано или данной формы не существует.");
+	}
+
 }
 //---------------------------------------------------------------------------
