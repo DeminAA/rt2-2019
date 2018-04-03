@@ -17,6 +17,6 @@ public:		// User declarations
 };
 //---------------------------------------------------------------------------
 extern PACKAGE TForm2 *Form2;
-extern char *G_17_Fomenkov = "lox";
+extern char *G_17_Fomenkov = "LOL";
 //---------------------------------------------------------------------------
 #endif
