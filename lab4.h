@@ -24,6 +24,6 @@ public:		// User declarations
 
 //---------------------------------------------------------------------------
 extern PACKAGE TForm1 *Form1;
-extern char *G_15_Shanin = "lol";
+extern char *G_15_Shanin = "LesNIK";
 //---------------------------------------------------------------------------
 #endif
