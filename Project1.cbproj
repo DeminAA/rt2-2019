@@ -161,13 +161,20 @@
             <DependentOn>TupikaUnit.h</DependentOn>
             <BuildOrder>5</BuildOrder>
         </CppCompile>
-        <FormResources Include="lab4_2.dfm"/>
-        <FormResources Include="TupikaUnit.dfm"/>
+        <CppCompile Include="Unit4.cpp">
+            <Form>ZabelovD</Form>
+            <FormType>dfm</FormType>
+            <DependentOn>Unit4.h</DependentOn>
+            <BuildOrder>9</BuildOrder>
+        </CppCompile>
         <FormResources Include="Sherstuk_form.dfm"/>
+        <FormResources Include="SOboLEV.dfm"/>
+        <FormResources Include="Unit4.dfm"/>
+        <FormResources Include="TupikaUnit.dfm"/>
         <FormResources Include="GorbunoV.dfm"/>
         <FormResources Include="AhmeTau.dfm"/>
         <FormResources Include="lab4.dfm"/>
-        <FormResources Include="SOboLEV.dfm"/>
+        <FormResources Include="lab4_2.dfm"/>
         <BuildConfiguration Include="Release">
             <Key>Cfg_2</Key>
             <CfgParent>Base</CfgParent>

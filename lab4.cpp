@@ -10,6 +10,8 @@
 #include "GorbunoV.h"
 #include "AhmeTau.h"
 #include "SOboLEV.h"
+#include "Unit4.h" // ZABELOV
+
 //---------------------------------------------------------------------------
 #pragma package(smart_init)
 #pragma resource "*.dfm"
@@ -48,6 +50,7 @@ void __fastcall TForm1::FormCreate(TObject *Sender)
 		ListBox1->Items->Add("Form3");             //2
 		ListBox1->Items->Add("AhmeForma22");       //3
 		ListBox1->Items->Add("sobolevForma");
+		ListBox1->Items->Add("ZabelovD");
 
 
 }
@@ -70,6 +73,9 @@ void __fastcall TForm1::Button1Click(TObject *Sender)
 			break;
 		case 4:
 			sobolevForma->Show();
+			break;
+		case 5:
+			ZabelovD->Show();
 			break;
 		default:
 			ShowMessage("»м€ формы не выбрано или данной формы не существует.");
