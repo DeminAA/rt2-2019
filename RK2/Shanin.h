@@ -12,6 +12,7 @@ class TShaninForm : public TForm
 {
 __published:	// IDE-managed Components
 	TButton *Button1;
+	void __fastcall FormKeyUp(TObject *Sender, WORD &Key, TShiftState Shift);
 private:	// User declarations
 public:		// User declarations
 	__fastcall TShaninForm(TComponent* Owner);

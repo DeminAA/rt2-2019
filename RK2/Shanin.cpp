@@ -14,3 +14,9 @@ __fastcall TShaninForm::TShaninForm(TComponent* Owner)
 {
 }
 //---------------------------------------------------------------------------
+void __fastcall TShaninForm::FormKeyUp(TObject *Sender, WORD &Key, TShiftState Shift)
+
+{
+		 Button1->Caption = Key;
+}
+//---------------------------------------------------------------------------
