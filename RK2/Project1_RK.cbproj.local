@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>1899.12.30 00:00:00.000.108,=C:\Users\LesNIK\Documents\Embarcadero\Studio\Projects\Unit1.cpp</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.223,=C:\Users\LesNIK\Documents\Embarcadero\Studio\Projects\Project1PCH1.h</Transaction>
+    <Transaction>2018.04.04 12:16:54.728,=C:\Users\LesNIK\Documents\Embarcadero\Studio\Projects\Project1PCH1.h</Transaction>
+    <Transaction>2018.04.04 12:16:54.769,=C:\Users\LesNIK\Documents\Embarcadero\Studio\Projects\Unit1.cpp</Transaction>
+    <Transaction>2018.04.04 12:18:38.013,C:\Users\LesNIK\Documents\Учеба\Флита2\lab4_sv\RK2\RK2.cpp=C:\Users\LesNIK\Documents\Embarcadero\Studio\Projects\Unit1.cpp</Transaction>
+    <Transaction>2018.04.04 12:18:38.013,C:\Users\LesNIK\Documents\Учеба\Флита2\lab4_sv\RK2\RK2.h=C:\Users\LesNIK\Documents\Embarcadero\Studio\Projects\Unit1.h</Transaction>
+    <Transaction>2018.04.04 12:18:38.013,C:\Users\LesNIK\Documents\Учеба\Флита2\lab4_sv\RK2\RK2.dfm=C:\Users\LesNIK\Documents\Embarcadero\Studio\Projects\Unit1.dfm</Transaction>
+    <Transaction>2018.04.04 12:18:48.543,C:\Users\LesNIK\Documents\Учеба\Флита2\lab4_sv\RK2\RK2_pro.h=C:\Users\LesNIK\Documents\Embarcadero\Studio\Projects\Project1PCH1.h</Transaction>
+    <Transaction>2018.04.04 12:18:55.456,C:\Users\LesNIK\Documents\Учеба\Флита2\lab4_sv\RK2\Project1_RK.cbproj=C:\Users\LesNIK\Documents\Embarcadero\Studio\Projects\Project1.cbproj</Transaction>
+  </Transactions>
+</BorlandProject>
