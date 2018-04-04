@@ -23,6 +23,9 @@ object ZabelovD: TZabelovD
     DefaultColWidth = 200
     RowCount = 17
     TabOrder = 0
+    ColWidths = (
+      200
+      200)
     RowHeights = (
       24
       24
