@@ -138,7 +138,7 @@
             <PCH>true</PCH>
         </PCHCompile>
         <CppCompile Include="Shanin.cpp">
-            <Form>Form2</Form>
+            <Form>ShaninForm</Form>
             <FormType>dfm</FormType>
             <DependentOn>Shanin.h</DependentOn>
             <BuildOrder>3</BuildOrder>
