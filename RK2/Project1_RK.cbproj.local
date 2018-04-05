@@ -1,24 +1,24 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <BorlandProject>
 	<Transactions>
-    <Transaction>1899.12.30 00:00:00.000.550,C:\Users\LesNIK\Documents\Учеба\Флита2\lab4_sv\RK2\Unit2.dfm=C:\Users\LesNIK\Documents\Учеба\Флита2\lab4_sv\RK2\Shanin.dfm</Transaction>
-    <Transaction>1899.12.30 00:00:00.000.550,C:\Users\LesNIK\Documents\Учеба\Флита2\lab4_sv\RK2\Unit2.cpp=C:\Users\LesNIK\Documents\Учеба\Флита2\lab4_sv\RK2\Shanin.cpp</Transaction>
-    <Transaction>1899.12.30 00:00:00.000.701,=C:\Users\dragm\Desktop\novlab\rt2-2019\RK2\Unit2.cpp</Transaction>
-    <Transaction>1899.12.30 00:00:00.000.013,C:\Users\LesNIK\Documents\Embarcadero\Studio\Projects\Unit1.dfm=C:\Users\LesNIK\Documents\Учеба\Флита2\lab4_sv\RK2\RK2.dfm</Transaction>
-    <Transaction>1899.12.30 00:00:00.000.972,=C:\Users\LesNIK\Documents\Учеба\Флита2\lab4_sv\RK2\Unit2.cpp</Transaction>
-    <Transaction>1899.12.30 00:00:00.000.769,=C:\Users\LesNIK\Documents\Embarcadero\Studio\Projects\Unit1.cpp</Transaction>
-    <Transaction>1899.12.30 00:00:00.000.394,C:\Users\dragm\Desktop\novlab\rt2-2019\RK2\Sidorov.cpp=C:\Users\dragm\Desktop\novlab\rt2-2019\RK2\Unit2.cpp</Transaction>
-    <Transaction>1899.12.30 00:00:00.000.108,=C:\Users\LesNIK\Documents\Embarcadero\Studio\Projects\Unit1.cpp</Transaction>
-    <Transaction>1899.12.30 00:00:00.000.013,C:\Users\LesNIK\Documents\Embarcadero\Studio\Projects\Unit1.cpp=C:\Users\LesNIK\Documents\Учеба\Флита2\lab4_sv\RK2\RK2.cpp</Transaction>
-    <Transaction>1899.12.30 00:00:00.000.543,C:\Users\LesNIK\Documents\Embarcadero\Studio\Projects\Project1PCH1.h=C:\Users\LesNIK\Documents\Учеба\Флита2\lab4_sv\RK2\RK2_pro.h</Transaction>
-    <Transaction>1899.12.30 00:00:00.000.394,C:\Users\dragm\Desktop\novlab\rt2-2019\RK2\Sidorov.h=C:\Users\dragm\Desktop\novlab\rt2-2019\RK2\Unit2.h</Transaction>
-    <Transaction>1899.12.30 00:00:00.000.550,C:\Users\LesNIK\Documents\Учеба\Флита2\lab4_sv\RK2\Unit2.h=C:\Users\LesNIK\Documents\Учеба\Флита2\lab4_sv\RK2\Shanin.h</Transaction>
-    <Transaction>1899.12.30 00:00:00.000.456,C:\Users\LesNIK\Documents\Embarcadero\Studio\Projects\Project1.cbproj=C:\Users\LesNIK\Documents\Учеба\Флита2\lab4_sv\RK2\Project1_RK.cbproj</Transaction>
-    <Transaction>1899.12.30 00:00:00.000.394,C:\Users\dragm\Desktop\novlab\rt2-2019\RK2\Sidorov.dfm=C:\Users\dragm\Desktop\novlab\rt2-2019\RK2\Unit2.dfm</Transaction>
-    <Transaction>1899.12.30 00:00:00.000.728,=C:\Users\LesNIK\Documents\Embarcadero\Studio\Projects\Project1PCH1.h</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.394,C:\Users\dragm\Desktop\novlab\rt2-2019\RK2\Unit2.cpp=C:\Users\dragm\Desktop\novlab\rt2-2019\RK2\Sidorov.cpp</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.550,C:\Users\LesNIK\Documents\Учеба\Флита2\lab4_sv\RK2\Shanin.cpp=C:\Users\LesNIK\Documents\Учеба\Флита2\lab4_sv\RK2\Unit2.cpp</Transaction>
     <Transaction>1899.12.30 00:00:00.000.223,=C:\Users\LesNIK\Documents\Embarcadero\Studio\Projects\Project1PCH1.h</Transaction>
-    <Transaction>1899.12.30 00:00:00.000.013,C:\Users\LesNIK\Documents\Embarcadero\Studio\Projects\Unit1.h=C:\Users\LesNIK\Documents\Учеба\Флита2\lab4_sv\RK2\RK2.h</Transaction>
-    <Transaction>2018.04.04 19:26:31.602,=C:\Users\sher-\Desktop\test2\rt2-2019\RK2\Unit2.cpp</Transaction>
-    <Transaction>2018.04.04 19:28:32.235,=C:\Users\sher-\Desktop\test2\rt2-2019\RK2\sherstuk.cpp</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.701,=C:\Users\dragm\Desktop\novlab\rt2-2019\RK2\Unit2.cpp</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.972,=C:\Users\LesNIK\Documents\Учеба\Флита2\lab4_sv\RK2\Unit2.cpp</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.013,C:\Users\LesNIK\Documents\Учеба\Флита2\lab4_sv\RK2\RK2.cpp=C:\Users\LesNIK\Documents\Embarcadero\Studio\Projects\Unit1.cpp</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.013,C:\Users\LesNIK\Documents\Учеба\Флита2\lab4_sv\RK2\RK2.h=C:\Users\LesNIK\Documents\Embarcadero\Studio\Projects\Unit1.h</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.769,=C:\Users\LesNIK\Documents\Embarcadero\Studio\Projects\Unit1.cpp</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.108,=C:\Users\LesNIK\Documents\Embarcadero\Studio\Projects\Unit1.cpp</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.728,=C:\Users\LesNIK\Documents\Embarcadero\Studio\Projects\Project1PCH1.h</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.394,C:\Users\dragm\Desktop\novlab\rt2-2019\RK2\Unit2.h=C:\Users\dragm\Desktop\novlab\rt2-2019\RK2\Sidorov.h</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.456,C:\Users\LesNIK\Documents\Учеба\Флита2\lab4_sv\RK2\Project1_RK.cbproj=C:\Users\LesNIK\Documents\Embarcadero\Studio\Projects\Project1.cbproj</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.602,=C:\Users\sher-\Desktop\test2\rt2-2019\RK2\Unit2.cpp</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.235,=C:\Users\sher-\Desktop\test2\rt2-2019\RK2\sherstuk.cpp</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.013,C:\Users\LesNIK\Documents\Учеба\Флита2\lab4_sv\RK2\RK2.dfm=C:\Users\LesNIK\Documents\Embarcadero\Studio\Projects\Unit1.dfm</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.550,C:\Users\LesNIK\Documents\Учеба\Флита2\lab4_sv\RK2\Shanin.dfm=C:\Users\LesNIK\Documents\Учеба\Флита2\lab4_sv\RK2\Unit2.dfm</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.550,C:\Users\LesNIK\Documents\Учеба\Флита2\lab4_sv\RK2\Shanin.h=C:\Users\LesNIK\Documents\Учеба\Флита2\lab4_sv\RK2\Unit2.h</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.394,C:\Users\dragm\Desktop\novlab\rt2-2019\RK2\Unit2.dfm=C:\Users\dragm\Desktop\novlab\rt2-2019\RK2\Sidorov.dfm</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.543,C:\Users\LesNIK\Documents\Учеба\Флита2\lab4_sv\RK2\RK2_pro.h=C:\Users\LesNIK\Documents\Embarcadero\Studio\Projects\Project1PCH1.h</Transaction>
   </Transactions>
 </BorlandProject>
