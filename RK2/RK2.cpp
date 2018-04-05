@@ -5,6 +5,7 @@
 
 #include "RK2.h"
 #include "Shanin.h"
+#include "sherstuk.h"
 //---------------------------------------------------------------------------
 #pragma package(smart_init)
 #pragma resource "*.dfm"
@@ -17,8 +18,8 @@ __fastcall TForm1::TForm1(TComponent* Owner)
 //---------------------------------------------------------------------------
 void __fastcall TForm1::FormCreate(TObject *Sender)
 {
-   //	ListBox1->Items->Add("Shersteforma");      //0
-	ListBox1->Items->Add("Shanin");      //1
+	ListBox1->Items->Add("Shanin");      //0
+	ListBox1->Items->Add("Sherstuk");  //1
    //	ListBox1->Items->Add("TupikaForm");      //2
 }
 //---------------------------------------------------------------------------
@@ -29,7 +30,7 @@ void __fastcall TForm1::ShowClick(TObject *Sender)
 			ShaninForm->Show();
 			break;
 		case 1:
-			//Shersteforma->Show();
+			shersteform->Show();
 			break;
 		case 2:
 		   //	TupikaForm->Show();
