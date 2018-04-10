@@ -8,6 +8,7 @@
 #include "sherstuk.h"
 #include "sobolevrk.h"
 #include "TupikaUnit.h"
+#include "rk1MSI.h"
 //---------------------------------------------------------------------------
 #pragma package(smart_init)
 #pragma resource "*.dfm"
@@ -24,6 +25,7 @@ void __fastcall TForm1::FormCreate(TObject *Sender)
 	ListBox1->Items->Add("Sherstuk");  //1
 	ListBox1->Items->Add("SobolevForma");      //2
 	ListBox1->Items->Add("TupikaForm");
+	ListBox1->Items->Add("Sidorov");
 
 }
 //---------------------------------------------------------------------------
@@ -41,6 +43,9 @@ void __fastcall TForm1::ShowClick(TObject *Sender)
 			break;
 		case 3:
 			TupikaForm->Show();
+			break;
+		case 4:
+			Sidorov->Show();
 			break;
 		default:
 			ShowMessage("»м€ формы не выбрано или данной формы не существует.");
