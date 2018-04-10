@@ -12,6 +12,7 @@ USEFORM("GorbunoV.cpp", Form3);
 USEFORM("AhmeTau.cpp", AhmeForma228);
 USEFORM("lab4.cpp", Form1);
 USEFORM("lab4_2.cpp", Form2);
+USEFORM("kalmykov.cpp", kalmykov1);
 //---------------------------------------------------------------------------
 int WINAPI _tWinMain(HINSTANCE, HINSTANCE, LPTSTR, int)
 {
@@ -27,6 +28,7 @@ int WINAPI _tWinMain(HINSTANCE, HINSTANCE, LPTSTR, int)
 		Application->CreateForm(__classid(TAhmeForma228), &AhmeForma228);
 		Application->CreateForm(__classid(TsobolevForma), &sobolevForma);
 		Application->CreateForm(__classid(TZabelovD), &ZabelovD);
+		Application->CreateForm(__classid(Tkalmykov1), &kalmykov1);
 		Application->Run();
 	}
 	catch (Exception &exception)

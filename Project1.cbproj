@@ -128,6 +128,12 @@
             <DependentOn>GorbunoV.h</DependentOn>
             <BuildOrder>6</BuildOrder>
         </CppCompile>
+        <CppCompile Include="kalmykov.cpp">
+            <Form>kalmykov1</Form>
+            <FormType>dfm</FormType>
+            <DependentOn>kalmykov.h</DependentOn>
+            <BuildOrder>10</BuildOrder>
+        </CppCompile>
         <CppCompile Include="lab4.cpp">
             <Form>Form1</Form>
             <FormType>dfm</FormType>
@@ -179,6 +185,7 @@
         <FormResources Include="AhmeTau.dfm"/>
         <FormResources Include="lab4.dfm"/>
         <FormResources Include="lab4_2.dfm"/>
+        <FormResources Include="kalmykov.dfm"/>
         <BuildConfiguration Include="Release">
             <Key>Cfg_2</Key>
             <CfgParent>Base</CfgParent>
@@ -241,7 +248,7 @@
                         <Overwrite>true</Overwrite>
                     </Platform>
                 </DeployFile>
-                <DeployFile LocalName=".\Win32\Debug\Project1.tds" Configuration="Debug" Class="DebugSymbols">
+                <DeployFile LocalName="..\lab4_win32\Win32\Debug\Project1.tds" Configuration="Debug" Class="DebugSymbols">
                     <Platform Name="Win32">
                         <RemoteName>Project1.tds</RemoteName>
                         <Overwrite>true</Overwrite>
@@ -257,18 +264,33 @@
                         <Overwrite>true</Overwrite>
                     </Platform>
                 </DeployFile>
-                <DeployFile LocalName=".\Win32\Debug\Project1.exe" Configuration="Debug" Class="ProjectOutput">
+                <DeployFile LocalName="..\lab4_win32\Win32\Debug\Project1.exe" Configuration="Debug" Class="ProjectOutput">
                     <Platform Name="Win32">
                         <RemoteName>Project1.exe</RemoteName>
                         <Overwrite>true</Overwrite>
                     </Platform>
                 </DeployFile>
-                <DeployClass Name="ProjectiOSDeviceResourceRules">
+                <DeployClass Name="DependencyModule">
+                    <Platform Name="Win32">
+                        <Operation>0</Operation>
+                        <Extensions>.dll;.bpl</Extensions>
+                    </Platform>
                     <Platform Name="iOSDevice64">
                         <Operation>1</Operation>
+                        <Extensions>.dylib</Extensions>
+                    </Platform>
+                    <Platform Name="OSX32">
+                        <RemoteDir>Contents\MacOS</RemoteDir>
+                        <Operation>1</Operation>
+                        <Extensions>.dylib</Extensions>
                     </Platform>
                     <Platform Name="iOSDevice32">
                         <Operation>1</Operation>
+                        <Extensions>.dylib</Extensions>
+                    </Platform>
+                    <Platform Name="iOSSimulator">
+                        <Operation>1</Operation>
+                        <Extensions>.dylib</Extensions>
                     </Platform>
                 </DeployClass>
                 <DeployClass Name="ProjectOSXResource">
@@ -622,27 +644,12 @@
                         <Operation>1</Operation>
                     </Platform>
                 </DeployClass>
-                <DeployClass Name="DependencyModule">
-                    <Platform Name="Win32">
-                        <Operation>0</Operation>
-                        <Extensions>.dll;.bpl</Extensions>
-                    </Platform>
+                <DeployClass Name="ProjectiOSDeviceResourceRules">
                     <Platform Name="iOSDevice64">
                         <Operation>1</Operation>
-                        <Extensions>.dylib</Extensions>
-                    </Platform>
-                    <Platform Name="OSX32">
-                        <RemoteDir>Contents\MacOS</RemoteDir>
-                        <Operation>1</Operation>
-                        <Extensions>.dylib</Extensions>
                     </Platform>
                     <Platform Name="iOSDevice32">
                         <Operation>1</Operation>
-                        <Extensions>.dylib</Extensions>
-                    </Platform>
-                    <Platform Name="iOSSimulator">
-                        <Operation>1</Operation>
-                        <Extensions>.dylib</Extensions>
                     </Platform>
                 </DeployClass>
                 <ProjectRoot Platform="iOSDevice64" Name="$(PROJECTNAME).app"/>

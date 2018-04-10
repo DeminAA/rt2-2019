@@ -11,6 +11,7 @@
 #include "AhmeTau.h"
 #include "SOboLEV.h"
 #include "Unit4.h" // ZABELOV
+#include "kalmykov.h"
 
 //---------------------------------------------------------------------------
 #pragma package(smart_init)
@@ -51,6 +52,7 @@ void __fastcall TForm1::FormCreate(TObject *Sender)
 		ListBox1->Items->Add("AhmeForma22");       //3
 		ListBox1->Items->Add("sobolevForma");
 		ListBox1->Items->Add("ZabelovD");
+		ListBox1->Items->Add("kalmykov1");
 
 
 }
@@ -76,6 +78,9 @@ void __fastcall TForm1::Button1Click(TObject *Sender)
 			break;
 		case 5:
 			ZabelovD->Show();
+			break;
+		case 6:
+			kalmykov1->Show();
 			break;
 		default:
 			ShowMessage("»м€ формы не выбрано или данной формы не существует.");
