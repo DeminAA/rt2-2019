@@ -1,7 +1,7 @@
 //---------------------------------------------------------------------------
 
-#ifndef Unit1H
-#define Unit1H
+#ifndef VladRTH
+#define VladRTH
 //---------------------------------------------------------------------------
 #include <System.Classes.hpp>
 #include <Vcl.Controls.hpp>
