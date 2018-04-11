@@ -5,17 +5,18 @@
 #include <tchar.h>
 //---------------------------------------------------------------------------
 USEFORM("Sherstuk_form.cpp", Shersteforma);
-USEFORM("lab4_2.cpp", Form2);
+USEFORM("latyshev.cpp", Form5);
+USEFORM("SidorovLab4.cpp", SIDFORM);
 USEFORM("Unit4.cpp", ZabelovD);
 USEFORM("TupikaUnit.cpp", Tupikaforma);
 USEFORM("SOboLEV.cpp", sobolevForma);
 USEFORM("GorbunoV.cpp", Form3);
 USEFORM("DimitrovDD.cpp", DimitrovDima);
 USEFORM("AhmeTau.cpp", AhmeForma228);
-USEFORM("lab4.cpp", Form1);
 USEFORM("kalmykov.cpp", kalmykov1);
-USEFORM("latyshev.cpp", Form5);
-USEFORM("SidorovLab4.cpp", SIDFORM);
+USEFORM("lab4_2.cpp", Form2);
+USEFORM("lab4.cpp", Form1);
+USEFORM("Ukolov.cpp", Ukolov_form);
 //---------------------------------------------------------------------------
 int WINAPI _tWinMain(HINSTANCE, HINSTANCE, LPTSTR, int)
 {
@@ -35,6 +36,7 @@ int WINAPI _tWinMain(HINSTANCE, HINSTANCE, LPTSTR, int)
 		Application->CreateForm(__classid(TDimitrovDima), &DimitrovDima);
 		Application->CreateForm(__classid(TForm5), &Form5);
 		Application->CreateForm(__classid(TSIDFORM), &SIDFORM);
+		Application->CreateForm(__classid(TUkolov_form), &Ukolov_form);
 		Application->Run();
 	}
 	catch (Exception &exception)
