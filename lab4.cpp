@@ -13,6 +13,8 @@
 #include "Unit4.h" // ZABELOV
 #include "kalmykov.h"
 #include "DimitrovDD.h"
+#include "latyshev.h"
+#include "SidorovLab4.h"
 
 //---------------------------------------------------------------------------
 #pragma package(smart_init)
@@ -55,6 +57,8 @@ void __fastcall TForm1::FormCreate(TObject *Sender)
 		ListBox1->Items->Add("ZabelovD");
 		ListBox1->Items->Add("kalmykov1");
 		ListBox1->Items->Add("DimitrovDima");
+		ListBox1->Items->Add("Form5");
+		ListBox1->Items->Add("TSIDFORM");
 
 
 }
@@ -86,6 +90,12 @@ void __fastcall TForm1::Button1Click(TObject *Sender)
 			break;
 		case 7:
 			DimitrovDima->Show();
+			break;
+		case 8:
+			Form5->Show();
+			break;
+		case 9:
+			SIDFORM->Show();
 			break;
 		default:
 			ShowMessage("»м€ формы не выбрано или данной формы не существует.");
