@@ -1,26 +1,25 @@
 //---------------------------------------------------------------------------
 
-#ifndef VladRTH
-#define VladRTH
+#ifndef VladosH
+#define VladosH
 //---------------------------------------------------------------------------
 #include <System.Classes.hpp>
 #include <Vcl.Controls.hpp>
 #include <Vcl.StdCtrls.hpp>
 #include <Vcl.Forms.hpp>
-#include <Vcl.ExtCtrls.hpp>
+#include <Vcl.Grids.hpp>
 //---------------------------------------------------------------------------
-class Tjustform : public TForm
+class TVRT : public TForm
 {
 __published:	// IDE-managed Components
-	TImage *Square;
-	void __fastcall SquareMouseMove(TObject *Sender, TShiftState Shift, int X, int Y);
-
-
+	TStringGrid *tablo;
+	void __fastcall FormCreate(TObject *Sender);
 private:	// User declarations
 public:		// User declarations
-	__fastcall Tjustform(TComponent* Owner);
+	__fastcall TVRT(TComponent* Owner);
 };
 //---------------------------------------------------------------------------
-extern PACKAGE Tjustform *justform;
+extern PACKAGE TVRT *VRT;
+extern char *G_09_Vladooos="kryak";
 //---------------------------------------------------------------------------
 #endif

@@ -16,6 +16,7 @@
 #include "latyshev.h"
 #include "SidorovLab4.h"
 #include "Ukolov.h"
+#include "Vlados.h"
 
 //---------------------------------------------------------------------------
 #pragma package(smart_init)
@@ -61,6 +62,7 @@ void __fastcall TForm1::FormCreate(TObject *Sender)
 		ListBox1->Items->Add("Form5");
 		ListBox1->Items->Add("TSIDFORM");
 		ListBox1->Items->Add("Ukolov_form");
+        ListBox1->Items->Add("Vladoooos");
 
 
 }
@@ -101,6 +103,9 @@ void __fastcall TForm1::Button1Click(TObject *Sender)
 			break;
 		case 10:
 			Ukolov_form->Show();
+			break;
+		case 11:
+			VRT->Show();
 			break;
 		default:
 			ShowMessage("»м€ формы не выбрано или данной формы не существует.");

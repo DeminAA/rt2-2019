@@ -1,7 +1,7 @@
 //---------------------------------------------------------------------------
 
-#ifndef VladRTH
-#define VladRTH
+#ifndef Unit3H
+#define Unit3H
 //---------------------------------------------------------------------------
 #include <System.Classes.hpp>
 #include <Vcl.Controls.hpp>
@@ -9,18 +9,22 @@
 #include <Vcl.Forms.hpp>
 #include <Vcl.ExtCtrls.hpp>
 //---------------------------------------------------------------------------
-class Tjustform : public TForm
+class TForm3 : public TForm
 {
 __published:	// IDE-managed Components
-	TImage *Square;
-	void __fastcall SquareMouseMove(TObject *Sender, TShiftState Shift, int X, int Y);
-
-
+	TButton *Button1;
+	TEdit *Edit1;
+	TRadioGroup *RadioGroup1;
+	TRadioGroup *RadioGroup2;
+	TRadioGroup *RadioGroup3;
+	TRadioGroup *RadioGroup4;
+	TRadioGroup *RadioGroup5;
+	void __fastcall Button1Click(TObject *Sender);
 private:	// User declarations
 public:		// User declarations
-	__fastcall Tjustform(TComponent* Owner);
+	__fastcall TForm3(TComponent* Owner);
 };
 //---------------------------------------------------------------------------
-extern PACKAGE Tjustform *justform;
+extern PACKAGE TForm3 *Form3;
 //---------------------------------------------------------------------------
 #endif

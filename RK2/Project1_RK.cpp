@@ -5,11 +5,12 @@
 #include <tchar.h>
 //---------------------------------------------------------------------------
 USEFORM("sherstuk.cpp", shersteform);
-USEFORM("sobolevrk.cpp", SobolevForma);
-USEFORM("TupikaUnit.cpp", TupikaForm);
 USEFORM("Shanin.cpp", ShaninForm);
-USEFORM("RK2.cpp", Form1);
+USEFORM("TupikaUnit.cpp", TupikaForm);
+USEFORM("sobolevrk.cpp", SobolevForma);
 USEFORM("rk1MSI.cpp", Sidorov);
+USEFORM("RK2.cpp", Form1);
+USEFORM("RK_Semenova\Unit3.cpp", Form3);
 //---------------------------------------------------------------------------
 int WINAPI _tWinMain(HINSTANCE, HINSTANCE, LPTSTR, int)
 {
@@ -23,6 +24,7 @@ int WINAPI _tWinMain(HINSTANCE, HINSTANCE, LPTSTR, int)
 		Application->CreateForm(__classid(TSobolevForma), &SobolevForma);
 		Application->CreateForm(__classid(TTupikaForm), &TupikaForm);
 		Application->CreateForm(__classid(TSidorov), &Sidorov);
+		Application->CreateForm(__classid(TForm3), &Form3);
 		Application->Run();
 	}
 	catch (Exception &exception)
